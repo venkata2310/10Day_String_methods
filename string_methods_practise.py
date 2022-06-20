@@ -14,23 +14,37 @@
 
 # print(len('python')) #6
 
-w='visualcode'
-print(w[0])
-print(w[1])
-print(w[2])
-print(w[3])
-print(w[4])
-print(w[5])
-print(w[6])
-print(w[7])
-print(w[8])
-print(w[9])
+# w='visualcode'
+# print(w[0])
+# print(w[1])
+# print(w[2])
+# print(w[3])
+# print(w[4])
+# print(w[5])
+# print(w[6])
+# print(w[7])
+# print(w[8])
+# print(w[9])
 
-print(w[-1])
-print(w[-2])
-print(w[-3])
-print(w[-4])
-print(w[-5])
-print(w[-6])
-print(w[-7])
-print(w[-8])
+# print(w[-1])
+# print(w[-2])
+# print(w[-3])
+# print(w[-4])
+# print(w[-5])
+# print(w[-6])
+# print(w[-7])
+# print(w[-8])
+
+# u='visualcode'
+# print(u[-5]+u[-3]+u[4]+u[-2]) #load
+# print(u.find('v'))
+# print(u.find('o'))
+# print(u.find('r'))
+# print(u.index('v'))
+# print(u.index('o'))
+# print(u.index('r'))
+
+# z='   Timer   '
+# print(z.strip()) #timer
+# print(z.lstrip())
+# print(z.rstrip())
